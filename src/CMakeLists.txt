@@ -15,3 +15,4 @@ target_link_libraries(gbench-test benchmark::benchmark)
 
 add_subdirectory(tsvc-s1115)
 add_subdirectory(matmul)
+add_subdirectory(prefix-sum)
